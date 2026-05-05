@@ -1,0 +1,10 @@
+Generiere einen beschreibenden Alt-Text für das folgende Bild auf einer Behörden-Webseite.
+
+Der Alt-Text muss:
+1. Präzise und kompakt sein (max. 150 Zeichen)
+2. Den Zweck des Bildes im Kontext der Seite beschreiben
+3. Keine redundanten Phrasen wie "Bild zeigt" oder "Foto von" verwenden
+4. Für Screenreader-Nutzer verständlich sein
+
+Gib den Alt-Text als JSON zurück:
+{"alt_text": "Dein Vorschlag hier"}

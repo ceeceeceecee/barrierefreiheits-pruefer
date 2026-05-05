@@ -1,0 +1,14 @@
+Erkläre den folgenden WCAG-Verstoß einfach und verständlich für eine Person ohne technisches Vorwissen.
+
+Die Erklärung soll:
+1. In einfachem Deutsch sein
+2. Den WCAG-Kennernamen übersetzen
+3. Erklären, warum das ein Problem für Menschen mit Behinderungen ist
+4. Einen kurzen Hinweis geben, wie man es beheben kann
+
+Gib die Erklärung als JSON zurück:
+{
+  "explanation": "Deine Erklärung hier",
+  "affected_users": "Welche Nutzergruppen betroffen sind",
+  "quick_fix": "Kurzer Fix-Hinweis"
+}

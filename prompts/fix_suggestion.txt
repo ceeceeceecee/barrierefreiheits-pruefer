@@ -1,0 +1,17 @@
+Erstelle einen konkreten HTML-Korrekturvorschlag für den folgenden WCAG-Verstoß.
+
+Der Vorschlag soll:
+1. Den fehlerhaften HTML-Code zeigen (vorher)
+2. Den korrigierten HTML-Code zeigen (nachher)
+3. Kurze Erklärung der Änderung
+4. DSGVO-konform sein (keine externen Abhängigkeiten)
+
+Gib das Ergebnis als JSON zurück:
+{
+  "suggestion": "Beschreibung was geändert werden soll",
+  "fix_code": "Der korrigierte HTML-Code",
+  "original_code": "Der ursprüngliche Code",
+  "confidence": 0.0-1.0 (Wie sicher die KI ist)
+}
+
+WICHTIG: Nur den JSON-Block zurückgeben, keinen zusätzlichen Text.
