@@ -26,7 +26,7 @@ EN: Automated accessibility scanner for government websites. Checks against BITV
 - **Kontrastprüfung**: Farbwerte und Kontrastverhältnisse automatisch ermitteln
 - **HTML/PDF-Reports**: Professionelle, druckoptimierte Berichte für Behörden
 - **DSGVO-konform**: Alle Daten lokal, keine externen API-Keys nötig (Ollama-Modus)
-- **Self-Hosted**: Docker-basiert, einfach部署
+- **Self-Hosted**: Docker-basiert, einfach einzurichten
 - **Deutschsprachig**: Oberfläche, Reports und KI-Prompts auf Deutsch
 
 ## 📋 Systemanforderungen
