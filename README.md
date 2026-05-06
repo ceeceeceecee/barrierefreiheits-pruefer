@@ -2,6 +2,8 @@
 
 **KI-gestützter Scanner für barrierefreie Webseiten der öffentlichen Verwaltung**
 
+![Barrierefreiheits-Prüfer](docs/screenshot.png)
+
 DE: Automatisierte Prüfung von Behörden-Webseiten auf Barrierefreiheit gemäß BITV 2.0, WCAG 2.1 (Level A & AA) und dem Barrierefreiheitsstärkungsgesetz (BFSG 2025). Self-hosted, DSGVO-konform, sofort einsetzbar.
 
 EN: Automated accessibility scanner for government websites. Checks against BITV 2.0, WCAG 2.1 (Level A & AA) and the German Accessibility Strengthening Act (BFSG 2025). Self-hosted, GDPR-compliant, ready to use.
